@@ -27,6 +27,7 @@ public class GitRepository {
                 int num2 =8;
                 int num3;
                 num3 = num1 + num2;
+                System.out.println(num3);
                 
 
        
