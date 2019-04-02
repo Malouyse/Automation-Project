@@ -31,6 +31,16 @@ public class GitRepository {
                 String hello = "I am new to gitHub";
                 System.out.println(hello);
 
+
+
+                
+  String hi = "I am also coding";
+  System.out.println(hi);
+
+                String min = "I am new to gitHub";
+                System.out.println(min);
+                
+
        
             }
         }
