@@ -22,6 +22,11 @@ public class GitRepository {
             if((str5.contains("Vertex")||str5.contains("Name")||str5.contains("Transmittance")||str5.contains("shoes"))){
 
                 System.out.println(str5);
+                
+                int num1 =5;
+                int num2 =8;
+                int num3;
+                
 
        
             }
