@@ -29,7 +29,7 @@ public class GitRepository {
                 num3 = num1 + num2;
                 System.out.println(num3);
                 String hello = "I am new to gitHub";
-                
+                System.out.println(hello);
 
        
             }
