@@ -30,6 +30,7 @@ public class GitRepository {
                 System.out.println(num3);
                 
   String hi = "I am also coding";
+  System.out.println(hi);
        
             }
         }
